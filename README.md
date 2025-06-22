@@ -19,3 +19,5 @@ tweet.py　　 楽天のＡＰＩでデータ取得後ツイート分を生成
 楽天.bat　　　実行用バッチファイル
 
 
+![スクリーンショット 2025-06-22 220049](https://github.com/user-attachments/assets/4226f2a3-8623-4c1f-a4da-b7ea3bf1fa63)
+![スクリーンショット 2025-06-22 220109](https://github.com/user-attachments/assets/88a9fdeb-9958-464a-90f3-a2d90003a655)
